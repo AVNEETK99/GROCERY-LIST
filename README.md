@@ -1,2 +1,1 @@
-# GROCERY-LIST
-SKILL SAFARI
+# Todo List Project
